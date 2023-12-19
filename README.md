@@ -28,7 +28,7 @@ Now, although X Education gets a lot of leads, its lead conversion rate is very 
 10. Prediction on test set
 11. Precision- Recall
 
-## Details of the files submitted
+## List of files submitted
 1. Lead Scoring Case Study Python Notebook.ipynb : The python file showing coding and data analysis
 
 2. Lead Scoring Case Study Python PDF : PDF version of the python file
